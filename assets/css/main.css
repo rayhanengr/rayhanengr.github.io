@@ -1931,9 +1931,7 @@ body.is-touch .main {
   background-size: contain;
   background-position: center;
   background-repeat: repeat, no-repeat;
-  min-height: 100vh;
-  width: 100%;
-  background-color: #60121d;
+  background-color: #681e29;
 }
 
 /* One */
@@ -1942,8 +1940,6 @@ body.is-touch .main {
   background-size: contain;
   background-position: center;
   background-repeat: repeat, no-repeat;
-  min-height: 100vh;
-  width: 100%;
   background-color: #0a3d62;
 }
 
@@ -1953,8 +1949,6 @@ body.is-touch .main {
   background-size: contain;
   background-position: center;
   background-repeat: repeat, no-repeat;
-  min-height: 100vh;
-  width: 100%;
   background-color: #0a3d62;
 }
 
